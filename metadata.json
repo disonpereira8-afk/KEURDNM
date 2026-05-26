@@ -1,0 +1,6 @@
+{
+  "name": "SPPD Management System",
+  "description": "Sistem Informasi Manajemen Surat Perintah Perjalanan Dinas (SPPD) untuk Rumah Detensi Imigrasi Pontianak",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
